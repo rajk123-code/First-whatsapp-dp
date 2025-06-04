@@ -44,7 +44,7 @@ function handleFormSubmission(event) {
     //   .catch(error => console.error('Error:', error));
 
     // URL of the image to download
-    const imageUrl = "https://example.com/your-image.jpg"; // Replace with your image URL
+    const imageUrl = "925.png"; // Replace with your image URL
 
     // Trigger image download
     const link = document.createElement("a");
