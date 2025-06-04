@@ -12,7 +12,7 @@ function downloadImage(event) {
             }
 
             // URL of the image to download
-            const imageUrl = "925.jpg"; // Replace with your image URL
+            const imageUrl = "925.png"; // Replace with your image URL
 
             // Create an anchor element to trigger the download
             const link = document.createElement("a");
